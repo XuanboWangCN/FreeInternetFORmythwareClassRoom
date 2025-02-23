@@ -6,7 +6,7 @@ About：在中国的中小学信息技术教学中，通常会使用一个叫做
 2.开源软件: 你可以随意修改
 #### 下载
 [转到下载页面
-](https://github.com/XuanboWangCN/FreeInternetFORmythwareClassRoom/releases/tag/%E6%AD%A3%E5%BC%8F%E7%89%88)
+](https://github.com/XuanboWangCN/FreeInternetFORmythwareClassRoom/releases/tag/EXE)
 
 #### 注意
 1.使用者需合法合规使用，认真遵守课堂纪律，不得干扰教学秩序。本人不承担任何责任，技术无罪，请合理使用<br>

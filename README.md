@@ -5,7 +5,7 @@ About：在中国的中小学信息技术教学中，通常会使用一个叫做
 1.不易被老师察觉：本软件不会禁用例如保持安静，上传文件，全屏广播等功能，仅仅解除网络限制，让您不易被老师察觉<br>
 2.开源软件: 你可以随意修改
 #### 下载
-[
+[转到下载页面
 ](https://github.com/XuanboWangCN/FreeInternetFORmythwareClassRoom/releases/tag/%E6%AD%A3%E5%BC%8F%E7%89%88)
 
 #### 注意
